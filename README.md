@@ -144,7 +144,7 @@
 
 | [https://ezchat.aitwg.com](https://ezchat.aitwg.com) | ![][image1] |
 | :---- | :---- |
-| **[https://eztalk.ait.wg.com](https://eztalk.ait.wg.com)** | **![][image2]** |
+| **[https://eztalk.aitwg.com](https://eztalk.aitwg.com)** | **![][image2]** |
 | **[https://genie.aitwg.com](https://genie.aitwg.com)** | **![][image3]** |
 | **[https://meme.aitwg.com](https://meme.aitwg.com)** | **![][image4]** |
 | **[https://foto.aitwg.com](https://foto.aitwg.com)** | **![][image5]** |
